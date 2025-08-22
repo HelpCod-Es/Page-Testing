@@ -1,2 +1,2 @@
 console.log("Hola mundo owo")
-alert("salditos")
+alert("saluditos")
